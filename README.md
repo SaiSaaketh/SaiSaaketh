@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiSaaketh
-- 👀 I’m interested in coding and biology
+- 👀 I’m interested in coding and studying biology
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my Project HoverAssist
 - 📫 to reach me you can contact through the mail saisaaketh11@gmail.com 
